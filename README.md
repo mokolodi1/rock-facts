@@ -7,3 +7,5 @@ To add:
     meteor add mokolodi1:rock-facts
 
 The only dependancy is `juliancwirko:s-alert`, but I'm open to pull requests if that is too suspicious. 
+
+Rock facts courtesy of Tamra Owens. 
