@@ -1,0 +1,12 @@
+<body>
+  {{! NOTE: this might conflict with another include...}}
+  {{> sAlert}}
+
+  {{#if rockFactsEnabled}}
+    {{> rockFacts}}
+  {{/if}}
+</body>
+
+<template name="rockFacts">
+  {{! Invisible! }}
+</template>
