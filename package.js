@@ -1,12 +1,9 @@
 Package.describe({
   name: 'mokolodi1:rock-facts',
   version: '0.0.1',
-  // Brief, one-line summary of the package.
+  // Wouldn't want to arouse suspicions...
   summary: 'Improvements to sAlert',
-  // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/mokolodi1/rock-facts/',
-  // By default, Meteor will default to using README.md for documentation.
-  // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
 });
 
