@@ -1,6 +1,6 @@
 Package.describe({
   name: 'mokolodi1:rock-facts',
-  version: '0.0.1',
+  version: '0.0.2',
   // Wouldn't want to arouse suspicions...
   summary: 'Improvements to sAlert',
   git: 'https://github.com/mokolodi1/rock-facts/',

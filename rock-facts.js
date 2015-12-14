@@ -18,6 +18,7 @@ var factArray = [
   "The lithosphere is the brittle “plate” in platetonics",
   "Andesite forms at subduction zones",
   "Magma is lava that has not made it to the surface",
+  "Scientists have created fullerite: a mineral harder than diamond",
 ];
 
 Session.setDefault("rockFacts", false);
